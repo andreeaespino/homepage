@@ -1,0 +1,22 @@
+List of the 10 HTML tags:
+- h1
+- div
+- button
+- ul
+- il
+- footer
+- h2
+- h3
+- input
+- br
+
+List of the 5 CSS properties:
+- font-size
+- background-color
+- margin
+- text-align
+- border-radius
+
+Description of the use JavaScript and Bootstrap:
+- Bootstrap: To add grids and cards for blog section.
+- JavaScript: To check if an input was correct.
